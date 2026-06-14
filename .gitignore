@@ -1,4 +1,11 @@
-__pycache__/
+# Environment variables
 .env
-venv/
+*.env
+.env.local
+bot_data.pickle
+
+# Python
+__pycache__/
 *.pyc
+venv/
+.env
